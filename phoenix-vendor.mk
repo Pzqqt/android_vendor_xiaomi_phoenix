@@ -1319,6 +1319,7 @@ PRODUCT_PACKAGES += \
     daxService \
     dpmserviceapp \
     ims \
+    ScreenshotTile \
     qcrilmsgtunnel \
     tcmclient \
     com.qti.location.sdk \
